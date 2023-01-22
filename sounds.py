@@ -1,0 +1,5 @@
+INTRO_SOUND = "sounds/Intro.mp3"
+DEATH_SOUND = "sounds/Death.mp3"
+CHOMP_SOUND = "sounds/Chomp.mp3"
+EAT_GHOST_SOUND = "sounds/Ghost.mp3"
+GHOST_NOISES_SOUND = "sounds/Ghost Noises.mp3"
